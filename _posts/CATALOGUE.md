@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Valdo's Puzzle Box Catalogue"
 ---
 
 :)
