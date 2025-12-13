@@ -4,6 +4,8 @@ title: "Valdo's Puzzle Box Catalogue"
 
 minima:
   skin: auto
+  nav_pages:
+    - CATALOGUE.md
   social_links:
     - title: GitHub
       icon: github
