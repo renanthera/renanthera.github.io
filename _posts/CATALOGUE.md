@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 :)
 
 this will maybe contain a catalogue of Valdo's Puzzle Box combinations in the future
